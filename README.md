@@ -1,5 +1,7 @@
 # Installation of Cloud Pak for Business Automation on containers - Demo deployment
 
+> **This repo has been moved to https://github.com/apollo-business-automation/ibm-cp4ba-demo-deployment.**
+
 This document contains quick notes created during installation of IBM Cloud Pak for Business Automation (CP4BA) using so called _Demo deployment_. The purpose is to demonstrate the procedure and final results. The last installation was performed on September 1, 2021 with CP4BA version 21.0.2-IF002 (also called 21.2.2).
 
 These notes have been created using official installation documentation hanging at https://www.ibm.com/docs/en/cloud-paks/cp-biz-automation/21.0.x?topic=kubernetes-installing-demo-deployments. The sections highlighted in red in the screenshot below show the specific sections these notes are based on. There is no major difference. It is just a consolidated, linearized, one-page description of the installation using Operator Hub, complemented with additional comments.
